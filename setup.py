@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 requires = []
 
 setup(name="jsoncat",
-      version="0.1.0",
+      version="0.1.1",
       platforms='any',
       packages = find_packages(),
       include_package_data=True,
